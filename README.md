@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The project's goal is to create visualizations by using the tableau. The data will be real-world data, such as NYC citibike data collected in August 2019.The purpose of the analysis is to find some answers to those questions; Where do Citi Bikers ride? When do they ride? Which stations are most popular and top starting and ending locations? How many rides will take place in August 2019, and who are the user types? Trips by gender and by weekday. 
+The project's goal is to create visualizations by using the tableau. The data will be real-world data, such as NYC citibike data collected in August 2019. The purpose of the analysis is to find some answers to those questions; Where do Citi Bikers ride? When do they ride? Which stations are most popular and top starting and ending locations? How many rides will take place in August 2019, and who are the user types? Trips by gender and by weekday. 
 
 <p align="center"><img src="https://github.com/zkirsan/bikesharing/blob/main/Resources/p1.PNG"></img></p>
 
