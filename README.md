@@ -30,7 +30,7 @@ The heatmap of trips by weekday per hour reveals that there are a lot of people 
 
 <p align="center"><img src="https://github.com/zkirsan/bikesharing/blob/main/Resources/p5.PNG"></img></p>
 
-As it can be seen below, the user trips by gender by weekday indicated that Monda to Tuesday and Thursday to Friday in terms of male users are the most bikes. 
+As it can be seen below, the user trips by gender by weekday indicated that Monda to Tuesday and Thursday to Friday in terms of male users have the most bikes.
 
 <p align="center"><img src="https://github.com/zkirsan/bikesharing/blob/main/Resources/p6.PNG"></img></p>
 
